@@ -73,7 +73,7 @@ public class AdminController {
     }
     
     
-   /* @RequestMapping("/users")
+   /*@RequestMapping("/users")
     public List<User> getAlUsers()
 	{
     	return user.alluser;
